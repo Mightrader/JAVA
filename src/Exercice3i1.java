@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 @SuppressWarnings("ALL")
-public class Exercice3i2 {
+public class Exercice3i1 {
     public static void main(String[] args) {
         int saisie;
         Scanner scanner = new Scanner(System.in);
