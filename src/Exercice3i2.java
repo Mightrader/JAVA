@@ -17,10 +17,5 @@ public class Exercice3i2 {
         }
         System.out.print("\nLe resultat de la factorielle de " + saisie);
         System.out.print(" est " + resultat);
-
-
-
-
-
     }
 }
